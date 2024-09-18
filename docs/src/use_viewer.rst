@@ -8,7 +8,7 @@ top menu or from the launcher.
 With the URDF editor open, files can be modified directly and the changes will 
 be immediately reflected in the viewer.
 
-.. image:: _static/urdfEditor.gif
+.. image:: ../images/urdfEditor.gif
     :alt: URDF live editor gif
 
 The viewer provides a control panel to manually modify the joint positions. 
@@ -17,7 +17,7 @@ The viewer provides a control panel to manually modify the joint positions.
     The changes are only reflected in the viewer and are not saved to the URDF
     file.
 
-.. image:: _static/urdfControls.gif
+.. image:: ../images/urdfControls.gif
     :alt: Gif moving the robot joints from the panel
 
 Only revolute and prismatic joints will be included in the panel, fixed joints 

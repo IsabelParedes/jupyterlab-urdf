@@ -8,7 +8,7 @@ Welcome to JupyterLab-URDF's documentation!
 
 With this JupyterLab extension, you can easily create and modify URDF files from the comfort of your web browser.
 
-.. image:: _static/urdfOverview.gif
+.. image:: images/urdfOverview.gif
    :alt: Functionality of extension
 
 Try it with JupyterLite!
@@ -23,23 +23,23 @@ Try it with JupyterLite!
    :maxdepth: 2
    :caption: General:
 
-   gen_getting_started
+   src/gen_getting_started
 
 .. toctree::
    :maxdepth: 2
    :caption: Usage:
 
-   use_editor
-   use_viewer
-   use_examples
+   src/use_editor
+   src/use_viewer
+   src/use_examples
 
 .. toctree::
    :maxdepth: 2
    :caption: Development:
 
-   dev_contribute
-   dev_install
-   dev_docs
+   src/dev_contribute
+   src/dev_install
+   src/dev_docs
 
 
 Indices and tables
